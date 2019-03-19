@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>org.roaringbitmap</groupId>
+        <groupId>org.roaringbitmap2</groupId>
         <artifactId>RoaringBitmapParent</artifactId>
         <version>0.7.9</version>
     </parent>

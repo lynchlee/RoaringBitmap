@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>org.roaringbitmap</groupId>
+        <groupId>org.roaringbitmap2</groupId>
         <artifactId>RoaringBitmapParent</artifactId>
         <version>0.7.9</version>
     </parent>
@@ -36,12 +36,12 @@
             <version>1.0</version>
         </dependency>
         <dependency>
-            <groupId>org.roaringbitmap</groupId>
+            <groupId>org.roaringbitmap2</groupId>
             <artifactId>RoaringBitmap</artifactId>
             <version>${project.version}</version>
         </dependency>
         <dependency>
-            <groupId>org.roaringbitmap</groupId>
+            <groupId>org.roaringbitmap2</groupId>
             <artifactId>real-roaring-dataset</artifactId>
             <version>${project.version}</version>
         </dependency>

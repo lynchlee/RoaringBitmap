@@ -1,7 +1,7 @@
 /**
 * This example shows how to serialize a Roaring bitmap to a byte array 
 */
-import org.roaringbitmap.RoaringBitmap;
+import org.roaringbitmap2.RoaringBitmap;
 import java.io.*;
 import java.nio.*;
 
