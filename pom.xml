@@ -134,8 +134,8 @@
             <!-- see https://issues.sonatype.org/browse/NEXUS-9138 -->
             <modules>
                 <module>real-roaring-dataset</module>
-                <module>jmh</module>
-                <module>memory</module>
+                <!--<module>jmh</module>-->
+                <!--<module>memory</module>-->
             </modules>
         </profile>
     </profiles>
